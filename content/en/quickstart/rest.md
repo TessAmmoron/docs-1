@@ -1,6 +1,6 @@
 ---
 
-title: Send a REST request
+title: Severní nd a REST request
 menuTitle: REST
 description: "Hoppscotch Guide for REST requests"
 position: 5
